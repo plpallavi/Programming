@@ -1,6 +1,6 @@
 package RotateArrayByKElement;
 
-public class RightRotation {
+public class leftRotation {
     public static void main(String[] args) {
 
     }
